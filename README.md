@@ -8,7 +8,3 @@
 
 * 📫 How to reach me: 
   * Email: `qaz6750@outlook.com`
-
-## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qaz6750)](https://github.com/qaz6750/github-readme-stats)
-
