@@ -8,3 +8,7 @@
 
 * 📫 How to reach me: 
   * Email: `qaz6750@outlook.com`
+* About me
+  *  I admit that I have many things that are not as excellent as expected, but I hope everyone can directly point out my problems and I will improve them.
+  *  Thank you.
+  * Modesty is an indispensable virtue.  
