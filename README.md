@@ -1,13 +1,17 @@
 ### Hi there 👋 , Here is qaz6750's profile.
 
 * 🔭 I am currently interested in:
-  * Port UEFI on the phone and start Windows on the device
+  * 🖥️Port UEFI on the phone
     * Xiaomi 9  (Cepheus)
-    * ~~Oneplus 5 (Cheeseburger)~~
+    * Oneplus 5 (Cheeseburger)
+    * Other interesting SOC or devices
   * Start Linux and fix it
     * Xiaomi 9  (Cepheus)
     * ~~Oneplus 5 (Cheeseburger)~~
-  * I also often help other WOA devices fix some problems
+  * ⚙️Maintaining drivers for WOA
+    * XiaoMi 9  (Cepheus)
+    * Oneplus 5 (Cheeseburger)
+    * Randomly assist other OEM devices in fixing some issues🙃(？)
 * 📫 How to reach me: 
   * Email: `qaz6750@outlook.com`
 * About me
