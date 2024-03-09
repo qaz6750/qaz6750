@@ -4,7 +4,6 @@
   * 🖥️Port UEFI on the phone
   * ⚙️Maintaining drivers for WOA
     * [Main]855 : XiaoMi 9 (Cepheus)
-    * [Main]855 : GalaxyTabS6
     * 835 : Oneplus 5 (Cheeseburger)
     * Randomly assist other OEM devices in fixing some issues🙃(？)
   * Start Linux and fix it
