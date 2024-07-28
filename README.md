@@ -4,11 +4,10 @@
   * 🖥️Port UEFI on the phone
   * ⚙️Maintaining drivers for WOA
     * [Main]855 : XiaoMi 9 (Cepheus)
-    * 835 : Oneplus 5 (Cheeseburger)
-    * Randomly assist other OEM devices in fixing some issues🙃(？)
+    * Randomly assist other OEM devices in fixing some issues.
+    * 835 : Oneplus 5t
   * Start Linux and fix it
     * Xiaomi 9  (Cepheus)
-    * ~~Oneplus 5 (Cheeseburger)~~
 * 📫 How to reach me: 
   * Email: `qaz6750@outlook.com`
 * About me
