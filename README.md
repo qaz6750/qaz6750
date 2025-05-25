@@ -1,5 +1,7 @@
 ### Hi there 👋 , Here is qaz6750's profile.
 
+* **人生多么美妙，记得保持微笑**
+
 * 🔭 I am currently interested in:
   * 🖥️Port UEFI on the phone
   * ⚙️Linux on the phone
@@ -13,5 +15,4 @@
   *  but I hope everyone can directly point out my problems and I will improve them, Thank you.
 * Some of the famous sayings that I like
   * Modesty is an indispensable virtue.
-  * You are not what happened to you. You are what you choose to become.
   * No matter what happens, or how bad it seems today, life does go on, and it will be better tomorrow.
