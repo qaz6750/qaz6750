@@ -5,6 +5,8 @@
 * 🔭 I am currently interested in:
   * 🖥️Port UEFI on the phone
   * ⚙️Linux on the phone
+    * 855 : XiaoMi 9
+    * Randomly assist other OEM devices in fixing some issues.
   * ⚙️Maintaining drivers for WOA
     * 855 : XiaoMi 9
     * Randomly assist other OEM devices in fixing some issues.
