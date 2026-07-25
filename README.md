@@ -9,7 +9,6 @@
     * Randomly assist other OEM devices in fixing some issues.
   * ⚙️Maintaining drivers for WOA
     * 855 : XiaoMi 9
-    * Randomly assist other OEM devices in fixing some issues.
 * 📫 How to reach me: 
   * Email: `qaz6750@outlook.com`
 * About me
